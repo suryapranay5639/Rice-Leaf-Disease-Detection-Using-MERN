@@ -76,8 +76,6 @@ rice-disease-detection FSD
 │
 └── README.md
 Installation
-1 Clone the repository
-git clone https://github.com/your-username/rice-disease-detection.git
 cd rice-disease-detection
 Install Dependencies
 Frontend
